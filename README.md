@@ -28,3 +28,5 @@ IMPORTANTE
 2. No console (Painel) de administração do Mapa Interativo, será necessário incluir todos os domínios permitidos para integração. 
 
 Visite https://almav.com
+
+![alt text]https://github.com/almav/urba.almav.com.br-jardim-sao-roque/blob/main/thumb01.jpg?raw=true)
