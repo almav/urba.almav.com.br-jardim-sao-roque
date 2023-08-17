@@ -6,22 +6,22 @@ A API JavaScript do almav Mapas permite que você personalize mapas com seu pró
 EXEMPLO ELEMENTO DESTINO
 
 ```
-<div id=”map”></div>
+<div id="map”></div"
 ```
 
 EXEMPLO FUNÇÃO RETORNO
 ```
 let map;
 function initMap() {
-  map = new almav.maps.Map(document.getElementById(“map”), {
-      “settings-id”: 1,
+  map = new almav.maps.Map(document.getElementById("map"), {
+      "settings-id": 1,
   });
 }
 ```
 
 URL: Javascript
 ```
-<script src=”https://maps.almav.com/maps/api/js?key=<chave>&callback=<retorno>” async></script>
+<script src="https://maps.almav.com/maps/api/js?key=<chave>&callback=<retorno>" async></script>
 ```
 IMPORTANTE
 1. Ao incluir o Mapa Interativo via iFrame, funções como o botão de GPS e tela cheia não irão funcionar. Utilize sempre a implementação por meio do código javascript.
